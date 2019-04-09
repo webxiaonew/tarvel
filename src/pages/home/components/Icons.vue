@@ -18,10 +18,7 @@ export default {
   name: 'HomeIcon',
   data () {
     return {
-      swiperOption: {
-        pagination: '.swiper-pagination',
-        loop: true
-      },
+      swiperOption: {},
       iconList: [{
         id: '0001',
         imgUrl: 'https://imgs.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png',
